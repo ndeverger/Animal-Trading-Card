@@ -1,0 +1,114 @@
+/* add your CSS here */
+
+.title{
+  font-weight: bold;
+  font-family: fantasy;
+  padding: 5px;
+}
+
+#label{
+  font-weight:bold;
+  }
+
+.list{
+list-style: none;
+padding: 1px;
+}
+
+
+
+.photo{
+  width: 300px;
+  border: 5px 5px solid;
+  padding: 0px;
+  border-style:double;
+  border-width: 2px 0px;
+  border-color: black;
+  box-shadow: 8px 8px lightseagreen;
+  border-top: solid;
+  border-left: solid;
+  border-right: solid;
+  border-bottom: solid;
+}
+
+.fact-information{
+  font-style: italic;
+  font-family: fantasy;
+  padding: 2px;
+}
+
+.interesting-fact{
+margin: 10px;
+padding: 10px;
+border: 1px solid #cccccc;
+border-color: black;
+
+}
+
+
+.card{
+width: 300px;
+padding: 20px;
+border: 1px solid #cccccc;
+background-color: rgb(153, 104, 198);
+box-shadow: 8px 8px;
+  
+
+
+}
+
+.description{
+
+font-family:fantasy;
+font-style:normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+ 
+
+
+
+
+
+
+
+
